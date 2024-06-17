@@ -1,5 +1,7 @@
 # build-ce
 
+future me: FK... THIS PROJECT IS SO MESSY WTF... im tempted to uninstall all the build tools then reinstall them, just so that i can know the exact dependecy or the compile tool BUT FK THAT WILL TAKE TIMES SO NO!
+
 dependencies:
 - lazarus 2.2.2 x64
 - lazarus 2.2.2 x86 cross-compile
@@ -14,7 +16,7 @@ here are some of extra features with its dependencies
 extras:
 - speedhack.lpr (required: lazarus)
 - luaclient.lpr (required: lazarus)
-- DirectXMess.sln (required: msbuild, MSVC v143)
+- DirectXMess.sln (required: msbuild, MSVC v140)
 - DotNetcompiler.sln (required: msbuild, .NET Framework)
 - monodatacollector.sln (required: msbuild, MSVC v143)
 - dotnetdatacollector.sln (required: msbuild, MSVC v143)
