@@ -16,7 +16,7 @@ here are some of extra features with its dependencies
 extras:
 - speedhack.lpr (required: lazarus)
 - luaclient.lpr (required: lazarus)
-- DirectXMess.sln (I AM NOT COMPILING YOU! I HATE YOU! YOU ARE A MESS!!!)
+- **DirectXMess.sln (I AM NOT COMPILING YOU! I HATE YOU! YOU ARE A MESS!!!)**
 - DotNetcompiler.sln (required: msbuild, .NET Framework)
 - monodatacollector.sln (required: msbuild, MSVC v143)
 - dotnetdatacollector.sln (required: msbuild, MSVC v143)
